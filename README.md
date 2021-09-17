@@ -14,7 +14,7 @@ We have applied to the ISO 639-3 Registration Authority to split ISO 639-3 Min N
 - Taiwanese `[oan]`
 - Teochew `[tws]`
 
-Links to the change request forms will be provided once they are posted to the [ISO 639-3 Change Request Index](https://iso639-3.sil.org/code_changes/change_request_index/data).
+This application is listed on the SIL website as [ISO 639-3 Change Request Number 2021-045](https://iso639-3.sil.org/request/2021-045).
 
 Please read the full details of our proposal by downloading the PDF:
 
